@@ -20,6 +20,9 @@ const (
 
 	// ErrTokenInvalid - 401: Token invalid.
 	ErrTokenInvalid
+
+	// ErrBindAndValidation - 400: Error occurred while binding the request body to the struct or validation failed.
+	ErrBindAndValidation
 )
 
 // 通用：数据库类错误
