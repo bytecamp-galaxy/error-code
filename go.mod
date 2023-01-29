@@ -1,4 +1,4 @@
-module github.com/marmotedu/sample-code
+module github.com/bytecamp-galaxy/error-code
 
 go 1.14
 
